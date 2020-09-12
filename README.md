@@ -1,6 +1,19 @@
-# todo_app
+# Flutter TODO Project
 
-A new Flutter project.
+I made this project to learn more about State Management in flutter.
+
+![](todo.png)
+
+
+# In this project I learned How to deal with:
+
+- State Management.
+
+- Provider.
+
+- Navigator.
+
+- Models.
 
 ## Getting Started
 
